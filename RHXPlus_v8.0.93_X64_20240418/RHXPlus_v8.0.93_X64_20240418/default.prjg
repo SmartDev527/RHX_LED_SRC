@@ -1,0 +1,137 @@
+[
+    {
+        "curIndex": 2,
+        "screenName": "显示屏0",
+        "screens": [
+            {
+                "Screen": {
+                    "ExtentedIOPara": ";",
+                    "ExtraPara": "",
+                    "ModBusBaudRate": "9600",
+                    "ModBusSlaveAddress": 1,
+                    "ModBusSlaveResponseTime": "50",
+                    "Program": [
+                        {
+                            "LayoutIndex": 0,
+                            "Rect": [
+                                {
+                                    "Info": [
+                                        {
+                                            "para": "0-R)H(X-请输入要显示的信息-R)H(X-19-R)H(X-1-R)H(X-0-R)H(X-#ff0000-R)H(X-tlei-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-1-R)H(X-1-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-random-R)H(X-1"
+                                        }
+                                    ],
+                                    "para": "0-R)H(X-0,0,320,32-R)H(X-0-01001004.bmp-1-2-R)H(X-0-0-0-R)H(X-0"
+                                }
+                            ],
+                            "Selected": true,
+                            "para": "0-R)H(X-60-R)H(X-0-0-0-R)H(X-0-0-0"
+                        }
+                    ],
+                    "ScanType": "all",
+                    "isBothBKXCZ": 0,
+                    "mainViewEdition": 1,
+                    "para": "0,67,2,0,2,1,64,0,32,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,32,0,16,4,4,0,0,1,2,3,12,8,4,0,13,9,5,1,14,10,6,2,15,11,7,3,0,1,2,3,4,5,6,7",
+                    "showClientByGroup": true,
+                    "showSystemFonts": false
+                }
+            },
+            {
+                "Screen": {
+                    "ExtentedIOPara": ";",
+                    "ExtraPara": "",
+                    "ModBusBaudRate": "9600",
+                    "ModBusSlaveAddress": 1,
+                    "ModBusSlaveResponseTime": "50",
+                    "Program": [
+                        {
+                            "LayoutIndex": 0,
+                            "Rect": [
+                                {
+                                    "Info": [
+                                        {
+                                            "para": "0-R)H(X-请输入要显示的信息-R)H(X-19-R)H(X-1-R)H(X-0-R)H(X-#ff0000-R)H(X-tlei-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-1-R)H(X-1-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-random-R)H(X-1"
+                                        }
+                                    ],
+                                    "para": "0-R)H(X-0,0,320,32-R)H(X-0-01001004.bmp-1-2-R)H(X-0-0-0-R)H(X-0"
+                                }
+                            ],
+                            "Selected": true,
+                            "para": "0-R)H(X-60-R)H(X-0-0-0-R)H(X-0-0-0"
+                        }
+                    ],
+                    "ScanType": "all",
+                    "isBothBKXCZ": 1,
+                    "mainViewEdition": 1,
+                    "para": "0,61,1,0,41,1,64,0,32,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,0,32,0,8,4,2,0,1,2,0,1,2,3,7,5,3,1,6,4,2,0,0,1,2,3,4,5,6,7",
+                    "showClientByGroup": true,
+                    "showSystemFonts": false
+                }
+            },
+            {
+                "Screen": {
+                    "ExtentedIOPara": ";",
+                    "ExtraPara": "",
+                    "ModBusBaudRate": "9600",
+                    "ModBusSlaveAddress": 1,
+                    "ModBusSlaveResponseTime": "50",
+                    "Program": [
+                        {
+                            "LayoutIndex": 0,
+                            "Rect": [
+                                {
+                                    "Info": [
+                                        {
+                                            "para": "0-R)H(X-请输入要显示的信息-R)H(X-19-R)H(X-1-R)H(X-0-R)H(X-#ff0000-R)H(X-tlei-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-1-R)H(X-1-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-random-R)H(X-1"
+                                        }
+                                    ],
+                                    "para": "0-R)H(X-0,0,320,32-R)H(X-0-01001004.bmp-1-2-R)H(X-0-0-0-R)H(X-0"
+                                }
+                            ],
+                            "Selected": true,
+                            "para": "0-R)H(X-60-R)H(X-0-0-0-R)H(X-0-0-0"
+                        }
+                    ],
+                    "ScanType": "all",
+                    "isBothBKXCZ": 0,
+                    "mainViewEdition": 2,
+                    "para": "0,67,2,0,2,1,64,0,32,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,32,0,16,4,4,0,0,1,2,3,12,8,4,0,13,9,5,1,14,10,6,2,15,11,7,3,0,1,2,3,4,5,6,7",
+                    "showClientByGroup": true,
+                    "showSystemFonts": false
+                }
+            },
+            {
+                "Screen": {
+                    "ExtentedIOPara": ";",
+                    "ExtraPara": "",
+                    "ModBusBaudRate": "9600",
+                    "ModBusSlaveAddress": 1,
+                    "ModBusSlaveResponseTime": "50",
+                    "Program": [
+                        {
+                            "LayoutIndex": 0,
+                            "Rect": [
+                                {
+                                    "Info": [
+                                        {
+                                            "para": "0-R)H(X-请输入要显示的信息-R)H(X-19-R)H(X-1-R)H(X-0-R)H(X-#ff0000-R)H(X-tlei-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-1-R)H(X-1-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-0-R)H(X-random-R)H(X-1"
+                                        }
+                                    ],
+                                    "para": "0-R)H(X-0,0,320,32-R)H(X-0-01001004.bmp-1-2-R)H(X-0-0-0-R)H(X-0"
+                                }
+                            ],
+                            "Selected": true,
+                            "para": "0-R)H(X-60-R)H(X-0-0-0-R)H(X-0-0-0"
+                        }
+                    ],
+                    "ScanType": "all",
+                    "isBothBKXCZ": 1,
+                    "mainViewEdition": 2,
+                    "para": "0,61,1,0,41,1,64,0,32,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,4,0,32,0,8,4,2,0,1,2,0,1,2,3,7,5,3,1,6,4,2,0,0,1,2,3,4,5,6,7",
+                    "showClientByGroup": true,
+                    "showSystemFonts": false
+                }
+            }
+        ],
+        "usedControllerNum": ""
+    }
+]
